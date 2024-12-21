@@ -29,4 +29,4 @@ Our clients wants us to create simple analysis of UrbanMart Sales by Region MS E
 
 ### To see the final result of dashboard visualization using MS Excel, visit:
 
-[![N|Solid]()
+[![N|Solid](https://biancaninna.github.io/UrbanMart-Sales-by-Region-Excel-Dashboard-Version-2/)
